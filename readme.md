@@ -6,4 +6,6 @@
 **Execution document:** */documentation/executiondocument.md*
 **Apis document:** */documentation/apisdocument.md*  
 **Requirements document:** */documentation/requirementsdocument.md*  
-**Url GitHub:** *https://github.com/AdrianFelipeAT/flaskapicrud.git*
+**Url GitHub:** *https://github.com/AdrianFelipeAT/flaskapicrud.git*  
+**BD Backup:** */documentation/dump*  
+**Environment vars:** *.env*  

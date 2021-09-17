@@ -1,0 +1,4 @@
+# Ignora el directorio del entorno virtual
+venv
+# Ignora el directorio de la base de datos local
+flask
